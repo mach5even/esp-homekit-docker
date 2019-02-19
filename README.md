@@ -1,6 +1,6 @@
 
 
-### Instructions using esp-homekit-demo ###
+### Instructions using esp-homekit-demo (macOS for now, to be updated w/ Linux) ###
 1. Clone the esp-homekit-demo project (if that's what you use to build your sensor)
     ``` 
     git clone https://github.com/maximkulkin/esp-homekit-demo.git 
